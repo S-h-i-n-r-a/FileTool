@@ -1,5 +1,5 @@
 # FileTool
-FileTool is a programme designed for bulk file moving and/or editing.
+FileTool is a programme designed for bulk file moving and/or editing. <br>
 It can:
 - Select only a specific file type.
 - Move found files to a different directory.
@@ -7,8 +7,7 @@ It can:
 - Add a suffix to the file's names.
 
 # License
-This software is released under the MIT license.
-
+This software is released under the MIT license. <br>
 TL;DR: Do as you please with it, so long as you add the copyright notice.
 
 # MIT License
