@@ -5,6 +5,7 @@ It can:
 - Move found files to a different directory.
 - Add a prefix to the file's names.
 - Add a suffix to the file's names.
+- Repeat these actions at specified interval.
 
 # License
 This software is released under the MIT license. <br>
