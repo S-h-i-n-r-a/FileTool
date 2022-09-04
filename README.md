@@ -7,6 +7,14 @@ It can:
 - Add a suffix to the file's names.
 - Repeat these actions at specified interval.
 
+# Installation
+1. Download the latest [release](https://github.com/S-h-i-n-r-a/FileTool/releases).
+2. Extract in any location (some may require admin privileges)
+3. Configure as needed (FileTool.cfg)
+4. Run the tool once, in repeat mode, or add a link to shell:startup.
+
+Note: currently only tested and built for Windows.
+
 # License
 This software is released under the MIT license. <br>
 TL;DR: Do as you please with it, so long as you add the copyright notice.
