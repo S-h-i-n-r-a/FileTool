@@ -8,10 +8,11 @@ It can:
 - Repeat these actions at specified interval.
 
 # Installation
-1. Download the latest [release](https://github.com/S-h-i-n-r-a/FileTool/releases).
-2. Extract in any location (some may require admin privileges)
-3. Configure as needed (FileTool.cfg)
-4. Run the tool once, in repeat mode, or add a link to shell:startup.
+1. Make sure you have the latest version of .NET installed (tool targets .NET 6)
+2. Download the latest [release](https://github.com/S-h-i-n-r-a/FileTool/releases).
+3. Extract in any location (some may require admin privileges)
+4. Configure as needed (FileTool.cfg)
+5. Run the tool once, in repeat mode, or add a link to shell:startup.
 
 Note: currently only tested and built for Windows.
 
