@@ -1,7 +1,4 @@
-﻿using System;
-using System.Security.Principal;
-
-namespace FileTool
+﻿namespace FileTool
 {
     internal class Program
     {

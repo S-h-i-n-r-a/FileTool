@@ -1,0 +1,15 @@
+C:\Users\Shinra\Projects\C#\FileTool\bin\Release\net6.0\FileTool.exe
+C:\Users\Shinra\Projects\C#\FileTool\bin\Release\net6.0\FileTool.deps.json
+C:\Users\Shinra\Projects\C#\FileTool\bin\Release\net6.0\FileTool.runtimeconfig.json
+C:\Users\Shinra\Projects\C#\FileTool\bin\Release\net6.0\FileTool.dll
+C:\Users\Shinra\Projects\C#\FileTool\bin\Release\net6.0\FileTool.pdb
+C:\Users\Shinra\Projects\C#\FileTool\obj\Release\net6.0\FileTool.csproj.AssemblyReference.cache
+C:\Users\Shinra\Projects\C#\FileTool\obj\Release\net6.0\FileTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shinra\Projects\C#\FileTool\obj\Release\net6.0\FileTool.AssemblyInfoInputs.cache
+C:\Users\Shinra\Projects\C#\FileTool\obj\Release\net6.0\FileTool.AssemblyInfo.cs
+C:\Users\Shinra\Projects\C#\FileTool\obj\Release\net6.0\FileTool.csproj.CoreCompileInputs.cache
+C:\Users\Shinra\Projects\C#\FileTool\obj\Release\net6.0\FileTool.dll
+C:\Users\Shinra\Projects\C#\FileTool\obj\Release\net6.0\refint\FileTool.dll
+C:\Users\Shinra\Projects\C#\FileTool\obj\Release\net6.0\FileTool.pdb
+C:\Users\Shinra\Projects\C#\FileTool\obj\Release\net6.0\FileTool.genruntimeconfig.cache
+C:\Users\Shinra\Projects\C#\FileTool\obj\Release\net6.0\ref\FileTool.dll
